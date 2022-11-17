@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgolddohyun&count_bg=%23E899DD&title_bg=%2375A9D6&icon=&icon_color=%23F6C3F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgolddohyun&count_bg=%23E899DD&title_bg=%2375A9D6&icon=linkedin&icon_color=%23F6C3F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgolddohyun&count_bg=%23E899DD&title_bg=%2375A9D6&icon=&icon_color=%23F6C3F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiane-chaeyun-kim-b005b1228%2F&count_bg=%23E899DD&title_bg=%2375A9D6&icon=linkedin.svg&icon_color=%23F6C3F6&title=linkedin&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![Golddohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=golddohyun&show_icons=true&theme=tokyonight)
